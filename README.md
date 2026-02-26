@@ -23,4 +23,4 @@ The study mathematically proves that while highly populated industrial states do
 * **LaTeX** for professional academic typesetting.
 
 ## Author
-* **Your Name** - [Link to your LinkedIn or Portfolio]
+* **Amit Raj** - [https://amitraj8.github.io/my-portfolio/]
